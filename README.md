@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello!! I'm Kaique Silva 👋 👨‍💻</h2>
-  <p>Currently, I'm FullStack JS developer, experience with frameworks frontend, how vue, nuxt, react and react-native, SqlServer and MySql on database and Node JS with backend development.</p>
+  <p>Currently, I'm FullStack JS developer, experience with frameworks frontend, how vue, nuxt and react-native, SqlServer and MySql on database and Node JS with backend development.</p>
 </div> 
   
 <div align="center">
